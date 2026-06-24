@@ -1,0 +1,11 @@
+    <div class="app-container">
+        <main class="dashboard">
+            <div id="kpi-container" class="kpi-grid">
+            </div>
+        </main>
+    </div>
+<script>
+var context = $Context;
+var RefreshTime = $Context.inputs.RefreshTime * 1000;
+
+</script>
